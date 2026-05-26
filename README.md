@@ -1,6 +1,6 @@
 # Pratik Ghodke — Portfolio
 
-A professional portfolio website built with **Angular 19**, featuring interactive animations, parallax effects, a 3D developer buddy, an Easter egg terminal, and a modern glassmorphism design.
+A professional portfolio website built with **Angular 19**, featuring interactive animations, parallax effects, a 3D developer buddy, an Easter egg terminal, and a modern  design.
 
 ## Tech Stack
 
